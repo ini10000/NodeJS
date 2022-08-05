@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "ini",
+    "MONGO_PASSWORD": "iniSmiles",
+    "MONGO_DEFAULT_DATABASE": "shop"
+  }
+}
