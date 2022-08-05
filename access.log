@@ -1,0 +1,6 @@
+::1 - - [05/Aug/2022:21:09:51 +0000] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77"
+::ffff:127.0.0.1 - - [05/Aug/2022:21:09:51 +0000] "GET /css/product.css HTTP/1.1" 200 379 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77"
+::1 - - [05/Aug/2022:21:09:51 +0000] "GET /css/main.css HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77"
+::ffff:127.0.0.1 - - [05/Aug/2022:21:09:51 +0000] "GET /js/main.js HTTP/1.1" 200 519 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77"
+::ffff:127.0.0.1 - - [05/Aug/2022:21:09:51 +0000] "GET /images/2022-08-03T10-11-52.852Z-S.jpg HTTP/1.1" 200 150622 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77"
+::ffff:127.0.0.1 - - [05/Aug/2022:21:09:52 +0000] "GET /favicon.ico HTTP/1.1" 404 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77"
